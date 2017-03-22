@@ -1,0 +1,33 @@
+body {
+	text-align: center;
+  	background: url("http://www.chelseaklevesahl.com/wp-content/uploads/2017/03/ppy-home-header.jpg");
+ 	background-size: cover;
+ 	color: white;
+	font-family: helvetica;
+	padding-top: 50px;
+}
+h1 {
+	font-weight: 800px;
+	font-size: 68px;
+}
+hr {
+	width: 250px;
+}
+#tiny {
+	font-size: 10px;
+	font-weight: 700;
+	text-transform: uppercase;
+	padding-top: 100px;
+}
+#content {
+	background-color: rgba(139, 88, 105, .8);
+	padding: 50px;
+	color: #fff;
+}
+#left {
+	text-align: left;
+}
+.itallic {
+	font-style: italic;
+	font-weight: 100;  
+}
