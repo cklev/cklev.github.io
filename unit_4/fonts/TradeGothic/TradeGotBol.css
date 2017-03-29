@@ -1,0 +1,12 @@
+/* Webfont: TradeGothic-Bold */@font-face {
+    font-family: 'TradeGothicBold';
+    src: url('TradeGotBol.eot'); /* IE9 Compat Modes */
+    src: url('TradeGotBol.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('TradeGotBol.woff') format('woff'), /* Modern Browsers */
+         url('TradeGotBol.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('TradeGotBol.svg#TradeGothic-Bold') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: bold;
+    text-rendering: optimizeLegibility;
+}
+

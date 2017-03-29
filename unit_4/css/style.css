@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css?family=Anton|Mr+De+Haviland');
+@import url('/fonts/Botdoh/Botdoh.otf');
+@import url('/fonts/TradeGothic/TradeGothicBold.otf');
+body {
+	text-align: center;
+  	background: url("http://www.chelseaklevesahl.com/wp-content/uploads/2017/03/ppy-home-header.jpg");
+ 	background-size: cover;
+ 	color: white;
+	font-family: sans-serif;
+	padding-top: 50px;
+}
+h1 {
+	font-size: 68px;
+}
+hr {
+	width: 250px;
+}
+#PPY {
+	font-size: 50px;
+	font-family: 'Anton', sans-serif;
+	line-height: .0em
+}
+#yoga {
+	font-size: 120px;
+	font-family: 'Botdoh', cursive;
+	line-height: .0em
+}
+#content {
+	background-color: rgba(139, 88, 105, .8);
+	padding: 50px;
+	color: #fff;
+}
+#left {
+	text-align: left;
+}
+.italic {
+	font-style: italic;
+}
+#tiny {
+	font-size: 10px;
+	font-weight: 700;
+	text-transform: uppercase;
+	padding-top: 100px;
+}
