@@ -2,6 +2,40 @@
 @font-face { font-family: TradeGothicBold; src: url('../fonts/TradeGothic/TradeGothicBold.otf'); } 
 @font-face { font-family: Botdoh; src: url('../fonts/Botdoh/Botdoh.otf'); } 
 
+header {
+    background-color: #FFED74;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+nav {
+    background-color: #E8C66A;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+aside {
+    background-color: #FFC675;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+article {
+    background-color: #F89C6C;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+footer {
+    background-color: #FF957E;
+    border: 1px black solid;
+    padding: 20px;
+}
+section {
+    background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+}
 
 body {
 	text-align: center;
@@ -13,6 +47,7 @@ body {
 }
 h1 {
 	font-size: 72px;
+	text-shadow: 2px 2px 8px rgba(111,91,95, 0.2);
 }
 hr {
 	width: 250px;
@@ -20,7 +55,7 @@ hr {
 #home {	
 	background: url("../images/ppy-home-header.jpg");
 	background-size: cover;
-	height: 800px
+	height: 1000px
 }
 #headline {
 	padding-top: 200px
@@ -31,7 +66,7 @@ hr {
 	line-height: .0em
 }
 #yoga {
-	font-size: 180px;
+	font-size: 190px;
 	font-family: 'Botdoh', cursive;
 	font-weight: 100;
 	line-height: .0em;
