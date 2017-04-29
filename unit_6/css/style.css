@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css?family=Anton|Mr+De+Haviland');
+@font-face { font-family: TradeGothicBold; src: url('../fonts/TradeGothic/TradeGothicBold.otf'); } 
+@font-face { font-family: Botdoh; src: url('../fonts/Botdoh/Botdoh.otf'); } 
+
+header {
+    padding: 20px;
+}
+
+nav {
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#three_column {
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#left {
+	border: 1px black solid;
+	padding: 20px;
+	float: left;
+	width: 30%;
+}
+
+#right {
+	boarder: 1px black solid;
+	padding: 20px;
+	float: right;
+	width: 62%;
+}
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
+
+aside {
+    border: 1px black solid;
+    padding: 20px;
+}
+
+article {
+    border: 1px black solid;
+    padding: 20px;
+}
+
+
+section {
+    border: 1px black solid;
+    padding: 20px;
+}
+
+body {
+	text-align: center;
+ 	background-size: cover;
+ 	color: white;
+ 	background-color: rgba(139, 88, 105, 1);
+	font-family: sans-serif;
+	margin: 10px
+}
+h1 {
+	font-size: 72px;
+	text-shadow: 2px 2px 8px rgba(111,91,95, 0.2);
+}
+hr {
+	width: 250px;
+}
+#home {	
+	background: url("../images/ppy-home-header.jpg");
+	background-size: cover;
+	height: 1000px
+}
+#headline {
+	padding-top: 200px
+}
+#PPY {
+	font-size: 80px;
+	font-family: 'TradeGothicBold', sans-serif;
+	line-height: .0em
+}
+#yoga {
+	font-size: 190px;
+	font-family: 'Botdoh', cursive;
+	font-weight: 100;
+	line-height: .0em;
+	margin-top: 60px
+}
+#content {
+	background-color: rgba(139, 88, 105, .8);
+	padding: 50px;
+	color: #fff;
+	margin-top: 0px
+}
+
+.italic {
+	font-style: italic;
+}
+#tiny {
+	font-size: 10px;
+	font-weight: 700;
+	text-transform: uppercase;
+	padding-top: 100px;
+}
+
+footer {
+    background-color: #FF957E;
+    border: 1px black solid;
+    padding: 20px;
+}
